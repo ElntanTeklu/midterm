@@ -1,0 +1,205 @@
+[02-Oct-2018 22:53:47 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:53:47 UTC] PHP Stack trace:
+[02-Oct-2018 22:53:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:53:47 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:53:47 UTC] PHP Stack trace:
+[02-Oct-2018 22:53:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:54:25 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:54:25 UTC] PHP Stack trace:
+[02-Oct-2018 22:54:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:54:25 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:54:25 UTC] PHP Stack trace:
+[02-Oct-2018 22:54:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:59:21 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:59:21 UTC] PHP Stack trace:
+[02-Oct-2018 22:59:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 22:59:21 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 22:59:21 UTC] PHP Stack trace:
+[02-Oct-2018 22:59:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:06:22 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:06:22 UTC] PHP Stack trace:
+[02-Oct-2018 23:06:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:06:22 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/index.php on line 14
+[02-Oct-2018 23:06:22 UTC] PHP Stack trace:
+[02-Oct-2018 23:06:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/index.php:0
+[02-Oct-2018 23:06:58 UTC] PHP Warning:  include(../includes/header.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:06:58 UTC] PHP Stack trace:
+[02-Oct-2018 23:06:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:06:58 UTC] PHP Warning:  include(): Failed opening '../includes/header.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 5
+[02-Oct-2018 23:06:58 UTC] PHP Stack trace:
+[02-Oct-2018 23:06:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:06:58 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:06:58 UTC] PHP Stack trace:
+[02-Oct-2018 23:06:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:06:58 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:06:58 UTC] PHP Stack trace:
+[02-Oct-2018 23:06:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:08:44 UTC] PHP Warning:  include(../includes/footer.html): failed to open stream: No such file or directory in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:08:44 UTC] PHP Stack trace:
+[02-Oct-2018 23:08:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:08:44 UTC] PHP Warning:  include(): Failed opening '../includes/footer.html' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/practice/feedback.php on line 96
+[02-Oct-2018 23:08:44 UTC] PHP Stack trace:
+[02-Oct-2018 23:08:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/feedback.php:0
+[02-Oct-2018 23:10:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[02-Oct-2018 23:10:53 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[02-Oct-2018 23:10:53 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[02-Oct-2018 23:10:53 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[02-Oct-2018 23:10:53 UTC] PHP Stack trace:
+[02-Oct-2018 23:10:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[02-Oct-2018 23:10:53 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[02-Oct-2018 23:14:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[02-Oct-2018 23:14:51 UTC] PHP Stack trace:
+[02-Oct-2018 23:14:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[02-Oct-2018 23:14:51 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[02-Oct-2018 23:14:51 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[02-Oct-2018 23:14:51 UTC] PHP Stack trace:
+[02-Oct-2018 23:14:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[02-Oct-2018 23:14:51 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:02:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:02:22 UTC] PHP Stack trace:
+[04-Oct-2018 22:02:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:02:22 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:02:22 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:02:22 UTC] PHP Stack trace:
+[04-Oct-2018 22:02:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:02:22 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:04:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:04:27 UTC] PHP Stack trace:
+[04-Oct-2018 22:04:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:04:27 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:04:27 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:04:27 UTC] PHP Stack trace:
+[04-Oct-2018 22:04:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:04:27 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:04:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:04:39 UTC] PHP Stack trace:
+[04-Oct-2018 22:04:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:04:39 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:04:39 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:04:39 UTC] PHP Stack trace:
+[04-Oct-2018 22:04:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:04:39 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:05:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:05:16 UTC] PHP Stack trace:
+[04-Oct-2018 22:05:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:05:16 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:05:16 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:05:16 UTC] PHP Stack trace:
+[04-Oct-2018 22:05:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:05:16 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:05:23 UTC] PHP Stack trace:
+[04-Oct-2018 22:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:05:23 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:05:23 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:05:23 UTC] PHP Stack trace:
+[04-Oct-2018 22:05:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:05:23 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:05:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:05:43 UTC] PHP Stack trace:
+[04-Oct-2018 22:05:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:05:43 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:05:43 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:05:43 UTC] PHP Stack trace:
+[04-Oct-2018 22:05:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:05:43 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:06:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:06:59 UTC] PHP Stack trace:
+[04-Oct-2018 22:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:06:59 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:06:59 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:06:59 UTC] PHP Stack trace:
+[04-Oct-2018 22:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:06:59 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:13:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 22:13:05 UTC] PHP Stack trace:
+[04-Oct-2018 22:13:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 22:13:05 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
+[04-Oct-2018 22:13:10 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/ubuntu/workspace/practice/transfer.php on line 17
+[04-Oct-2018 22:13:10 UTC] PHP Stack trace:
+[04-Oct-2018 22:13:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/transfer.php:0
+[04-Oct-2018 22:13:10 UTC] PHP   2. mysqli_connect() /home/ubuntu/workspace/practice/transfer.php:17
+[04-Oct-2018 22:15:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/practice/transfer.php on line 91
+[04-Oct-2018 22:15:49 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/practice/transfer.php on line 91
+[04-Oct-2018 22:16:03 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/practice/transfer.php on line 91
+[04-Oct-2018 22:16:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:16:36 UTC] PHP Stack trace:
+[04-Oct-2018 22:16:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:16:36 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:16:36 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:16:36 UTC] PHP Stack trace:
+[04-Oct-2018 22:16:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:16:36 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:18:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:18:31 UTC] PHP Stack trace:
+[04-Oct-2018 22:18:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:18:31 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:18:31 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:18:31 UTC] PHP Stack trace:
+[04-Oct-2018 22:18:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:18:31 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:28:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:28:58 UTC] PHP Stack trace:
+[04-Oct-2018 22:28:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:28:58 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:28:58 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:28:58 UTC] PHP Stack trace:
+[04-Oct-2018 22:28:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:28:58 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:29:07 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:29:07 UTC] PHP Stack trace:
+[04-Oct-2018 22:29:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:29:07 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:29:07 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:29:07 UTC] PHP Stack trace:
+[04-Oct-2018 22:29:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:29:07 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:29:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:29:12 UTC] PHP Stack trace:
+[04-Oct-2018 22:29:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:29:12 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:29:12 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:29:12 UTC] PHP Stack trace:
+[04-Oct-2018 22:29:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:29:12 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:35:05 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:35:05 UTC] PHP Stack trace:
+[04-Oct-2018 22:35:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:35:05 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:35:05 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:35:05 UTC] PHP Stack trace:
+[04-Oct-2018 22:35:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:35:05 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:35:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:35:09 UTC] PHP Stack trace:
+[04-Oct-2018 22:35:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:35:09 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:35:09 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:35:09 UTC] PHP Stack trace:
+[04-Oct-2018 22:35:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:35:09 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:45:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:45:32 UTC] PHP Stack trace:
+[04-Oct-2018 22:45:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:45:32 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:45:32 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:45:32 UTC] PHP Stack trace:
+[04-Oct-2018 22:45:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:45:32 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:45:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:45:38 UTC] PHP Stack trace:
+[04-Oct-2018 22:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:45:38 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:45:38 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:45:38 UTC] PHP Stack trace:
+[04-Oct-2018 22:45:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:45:38 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
+[04-Oct-2018 22:47:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 79
+[04-Oct-2018 22:47:34 UTC] PHP Stack trace:
+[04-Oct-2018 22:47:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:47:34 UTC] PHP   2. mysqli_fetch_array() /home/ubuntu/workspace/practice/view_users.php:79
+[04-Oct-2018 22:47:34 UTC] PHP Warning:  mysqli_free_result() expects parameter 1 to be mysqli_result, boolean given in /home/ubuntu/workspace/practice/view_users.php on line 92
+[04-Oct-2018 22:47:34 UTC] PHP Stack trace:
+[04-Oct-2018 22:47:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/practice/view_users.php:0
+[04-Oct-2018 22:47:34 UTC] PHP   2. mysqli_free_result() /home/ubuntu/workspace/practice/view_users.php:92
